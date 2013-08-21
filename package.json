@@ -1,0 +1,15 @@
+{
+    "name": "string-hash-colour",
+    "description": "Pick a colour from a string. Repeatable but not reversable.",
+    "version": "0.0.1",
+    "author": "Gausie <git@gaus.ie>",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/gausie/string-hash-colour.git"
+    },
+    "main": "./string-hash-colour",
+    "keywords": ["color", "colour", "string", "hash"],
+    "dependencies": {
+		"easy-crc32": "0.0.2"
+    }
+}
