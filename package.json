@@ -1,7 +1,7 @@
 {
   "name": "string-hash-colour",
   "description": "Pick a colour from a string. Repeatable but not reversable.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Gausie <git@gaus.ie>",
   "repository": {
     "type": "git",
