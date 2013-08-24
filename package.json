@@ -10,7 +10,8 @@
   "main": "./string-hash-colour",
   "keywords": ["color", "colour", "string", "hash"],
   "dependencies": {
-    "easy-crc32": "0.0.2"
+    "easy-crc32": "0.0.2",
+    "colour-proximity": "0.0.2"
   },
   "license": "GPLv3"
 }
